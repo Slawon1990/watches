@@ -1,0 +1,217 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+  ol, ul {
+    list-style: none;
+  }
+  
+  body {
+    font-family: 'League Spartan', sans-serif ;
+  }
+
+  header {
+    width: 1440px;
+    height: 900px;
+    background-color: #F8F8F8;
+  }
+
+  .header-wrapper {
+    margin-left: 135px;
+    display: flex;
+  }
+
+  .header-title {
+    margin-top: 104px;
+    margin-bottom: 53px;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 45px;
+  }
+
+  .watch {
+   margin-bottom: 43px;
+   font-size: 250px;
+   font-weight: 300;
+   line-height: 230px;
+  }
+
+  .header-description{
+    width: 575px;
+    height: 142px;
+    font-size: 32px;
+    font-weight: 300;
+    line-height: 50px;
+    text-align: center;
+    margin-right: 82px;
+    }
+
+    .buy-link {
+        display: flex;
+        margin-top: 61px;
+    }
+
+    .button {
+     width: 278px;
+     height: 82px;
+     background-color: black;
+     color: #F8F8F8;
+     font-size: 32px;
+     font-weight: 300;
+     text-decoration: none;
+     display: flex;
+     align-items: center;
+     justify-content: center;   
+    }
+
+    .price {
+      width: 143px;
+      height: 82px;
+      background-color: #FFFFFF;
+      font-size: 32px;
+      font-weight: 300;
+      display: flex;
+      align-items: center; 
+      justify-content: center; 
+    }
+
+    .header-img {
+        width: 408px;
+        height: 720px;
+        margin-bottom: 176px;
+    }
+
+    .popular {
+        margin-top: 43px;
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 45px;
+        text-align: center;
+    }
+
+    .main-subtitle {
+        margin-bottom: 84px;
+        font-size: 72px;
+        font-weight: 400;
+        line-height: 80px;
+        text-align: center;
+    }
+
+    .son22-card {
+        margin: auto;
+        width: 417px;
+    }
+
+    .son22-card-wrapper {
+        width: 417px;
+        height: 630px;
+        background-color: #F8F8F8 ;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .son22-img {
+       
+        width: 286px;
+        height: 410px;
+
+    }
+
+    .title-son22 {
+       margin: 67px 0px 17px 0px ; 
+       text-align: center;
+    }
+
+    .description-wrapper {
+       margin: auto;
+       width: 531px; 
+    }
+
+    .description-son22 {
+       font-size: 32px;
+       font-weight: 300;
+       line-height: 50px;
+       text-align: center;
+             
+    }
+
+    .sw12-card {
+      margin: 85px auto 0px auto;
+      width: 496px;  
+    }
+
+    .sw12-card-wrapper {
+        width: 496px;
+        height: 630px;
+        background-color: #F8F8F8;
+        display: flex;
+        align-items: center ;
+        justify-content: center;
+    }
+
+    .sw12-img {
+        width: 500px;
+        height: 500px;
+    }
+
+    .title-sw12 {
+        margin: 67px 0px 17px 0px;
+        text-align: center;
+    }
+
+    .description-sw12-wrapper {
+       width: 510px;
+       height: 196px;
+       margin: auto; 
+    }
+
+    .description-sw12 {
+        font-size: 32px;
+        font-weight: 300;
+        line-height: 50px;
+        text-align: center;
+    }
+
+    .product-description {
+        margin-top: 59px;
+        text-align: center;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 60px;
+
+    }
+
+    .description-wrapper {
+        width: 515px;
+        height: 231px;
+        margin: 0px auto 142px auto;
+    }
+
+    .line {
+        width: 178px;
+        margin-bottom: 50px;
+    }
+
+    .footer-description {
+        font-size: 24px;
+        font-weight: 300;
+        line-height: 40px;
+        text-align: center;
+        
+    }
+
+    .link {
+       color: #BB8B5D; 
+    }
